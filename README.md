@@ -1,2 +1,2 @@
-# DEMO
-COLLAB
+#MY MINI BLOG
+
